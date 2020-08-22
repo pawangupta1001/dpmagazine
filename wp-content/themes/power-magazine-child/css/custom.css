@@ -1,0 +1,10 @@
+/*
+  Template:     power-magazine
+ */
+/* Custom css for overriding the main file */
+.social-links ul li a[href*="facebook.com"]::before {
+    content: "";
+}
+.social-links ul li a[href*="twitter.com"]::before {
+    content: "";
+}
